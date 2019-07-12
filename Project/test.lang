@@ -1,0 +1,8 @@
+PRINT "Enter Name";
+INPUT $name;
+PRINT "Hello";
+PRINT $name;
+
+PRINT 2+3*8+(5+5);
+
+
